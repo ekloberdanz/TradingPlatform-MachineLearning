@@ -1,3 +1,5 @@
+Developed a neural net for technical analysis and a natural language processing model for sentiment analysis of webscraped news articles. Achieved returns 4% above market.
+
 All programs must be run with Python3. I used Python 3.5.2 on Ubuntu 16.04.
 
 The code base contains two machine learning models: 
